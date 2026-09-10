@@ -58,10 +58,6 @@ The notebook produces:
 - A learned vocabulary from `CountVectorizer`
 - A sparse bag-of-words matrix for the corpus
 
-## Notes
-
-- The notebook currently implements bag-of-words rather than TF-IDF.
-- If you want an actual TF-IDF version, replace `CountVectorizer` with `TfidfVectorizer` and fit it on the cleaned corpus.
 
 ## Project Structure
 
