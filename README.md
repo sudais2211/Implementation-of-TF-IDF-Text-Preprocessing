@@ -40,7 +40,6 @@ The notebook downloads these corpora/models at runtime:
 - `wordnet`
 - `omw-1.4`
 
-If downloads fail because of network restrictions, install them manually in an environment with internet access.
 
 ## How to run
 
